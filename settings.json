@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
+    "username": "BeatAFK",
+    "password": "beat22",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "PublicServer5.aternos.me",
+    "port": 56754,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,15 +20,15 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "beat22"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
